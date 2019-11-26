@@ -1,6 +1,6 @@
 .App {
   min-height: 100vh;
-  background: #FFEEEE;
+  background: white;
 }
 
 .search-form {
@@ -12,7 +12,7 @@
 
 .search-bar {
   width: 50%;
-  border: none;
+  border-color: rgb(71, 71, 71);
   padding: 10px;
 }
 
